@@ -2,19 +2,22 @@
 <h3 align="center">Purdue University ECE M.S. Student | Software Engineer | <a href="https://medium.com/@mars-wangyang">Technical Blogger</a> | ex-Microsoft Cloud Solution Architect | Adventurer</h3>
 
 ### About Me
-🎓  I'm currently studying in Electrical and Computer Engineering at Purdue University, West Lafayette.
-🌱  I'm on track with learning more about Distributed Systems, Virtualization, and Software Architecture.
-🤔 In my free time, I enjoy working-out, listening to the music (R&B or Jazz mostly), and playing video games.
-📫 You can drop me an email at marsmang0525@gmail.com 📨 It will be a pleasure to talk with you!.
-📄  Check my now page to get to know me a little better.
+<p> 
+🎓  I'm currently studying in Electrical and Computer Engineering at Purdue University, West Lafayette. </br>
+🌱  I'm on track with learning more about Distributed Systems, Virtualization, Cloud Computing and Software Architecture. </br>
+🤔 In my free time, I enjoy working-out, listening to the music (R&B or Jazz mostly), and playing video games. </br>
+📫 You can drop me an email at <a href="marsmang0525@gmail.com"><u>marsmang0525@gmail.com</u> 📨 </a> It will be a pleasure to talk with you!. </br>
+📄  Check my now page to get to know me a little better. </br>
 
-
+</p>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=CSharp&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red)
+![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=007396)
+
 
 ### Cloud Service
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Azure)

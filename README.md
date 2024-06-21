@@ -4,8 +4,8 @@
 ### About Me
 🎓  I'm currently studying in Electrical and Computer Engineering at Purdue University, West Lafayette.
 🌱  I'm on track with learning more about Distributed Systems, Virtualization, and Software Architecture.
-✍️  In my free time, I enjoy working-out, listening to the music (R&B or Jazz mostly), and playing video games.
-✉️  You can drop me an email at marsmang0525@gmail.com 📨 It will be a pleasure to talk with you!.
+🤔 In my free time, I enjoy working-out, listening to the music (R&B or Jazz mostly), and playing video games.
+📫 You can drop me an email at marsmang0525@gmail.com 📨 It will be a pleasure to talk with you!.
 📄  Check my now page to get to know me a little better.
 
 

@@ -8,6 +8,13 @@
 🤔 In my free time, I enjoy working-out, listening to the music (R&B or Jazz mostly), and playing video games. </br>
 📫 You can drop me an email at <a href="marsmang0525@gmail.com"><u>marsmang0525@gmail.com</u> 📨 </a> It will be a pleasure to talk with you!. </br>
 📄  Check my now page to get to know me a little better. </br>
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mars wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mars wang" height="30" width="40" /></a>
+<a href="https://medium.com/@mars-wangyang">
+  <img align="left" height="30" width="40"  src="https://cdn.simpleicons.org/medium/777777" />
+</a>
+</p>
 
 </p>
 
@@ -19,7 +26,7 @@
 ![Golang](https://img.shields.io/badge/Golang-000?style=for-the-badge&logo=go&logoColor=007396)
 
 
-### Cloud Service
+### Cloud Services
 ![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=Azure)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS)
 ![GCP](https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=Google-GCP)
@@ -48,10 +55,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=marswangyang&show_icons=true&locale=en" alt="marswangyang" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marswangyang&" alt="marswangyang" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mars wang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mars wang" height="30" width="40" /></a>
-<a href="https://medium.com/@mars-wangyang">
-  <img align="left" height="30" width="40"  src="https://cdn.simpleicons.org/medium/777777" />
-</a>
-</p>
+
